@@ -70,7 +70,7 @@ const App = () => {
     <div>
     <div>
       <h1>
-        Certificate Generator
+        Certificate generator
       </h1>
     </div>
       <label>
